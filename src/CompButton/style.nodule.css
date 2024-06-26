@@ -1,21 +1,17 @@
 .counter {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
     text-align: center;
-    row-gap: 20px;
+  
   }
   
   .counter h1 {
-    color: rgb(16, 0, 54);
+    color: rgb(115, 64, 235);
     font-size: 40px;
     font-family: cursive;
   }
   
   .counter__output {
     font-size: 40px;
-    color: rgb(116, 7, 7);
+    color: rgb(255, 1, 1);
   }
   
   .btn__container {
@@ -28,7 +24,7 @@
   .control__btn {
     font-size: 20px;
     padding: 10px 20px;
-    background-color: transparent;
+    background-color: lightskyblue;
     color: rgb(16, 0, 54);
     border: 1px solid rgb(16, 0, 54);
     cursor: pointer;
